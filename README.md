@@ -20,6 +20,8 @@ Display the date and time of sending the message
 
 responsive
 
+Edit the tel.php file and replace your token and numeric ID
+
 View online: https://mohsenhesavi.ir/Project/Project3
 
 سورس کد ارسال پیام آنلاین به تلگرام:
@@ -39,6 +41,8 @@ View online: https://mohsenhesavi.ir/Project/Project3
 نمایش تاریخ و ساعت ارسال پیام
 
 واکنش گرا
+
+فایل tel.php ویرایش شود و توکن و آیدی عددی خود را جایگزین کنید
 
 نوشته شده با : html,css,php
 
